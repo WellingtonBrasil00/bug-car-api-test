@@ -1,3 +1,4 @@
+![Captura de Tela (14)](https://github.com/user-attachments/assets/45fd59f4-9449-49d2-b6a3-b2073f12018c)
 # 🐞 BuggyCarRacing - Testes Automatizados de API
 
 Este projeto contém testes automatizados desenvolvidos em **Python** utilizando o **pytest**, com o apoio do **GitHub Copilot** para acelerar a escrita de código e gerar sugestões inteligentes. Os testes visam validar as principais funcionalidades da API do site [BuggyCarRacing](https://buggy.justtestit.org/).
